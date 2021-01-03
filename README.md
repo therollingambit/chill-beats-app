@@ -2,13 +2,13 @@
 Hooks: useState, useEffect
 Styling: SCSS
 
-###Clone repository
+### Clone repository
 
-###`npm install` to install all relevant dependencies.
+### `npm install` to install all relevant dependencies.
 
-###`npm start` to start the project on localhost
+### `npm start` to start the project on localhost
 
-##Project can be viewed here at https://enaya-chill-beats.netlify.app/
+## Project can be viewed here at https://enaya-chill-beats.netlify.app/
 
 
 
