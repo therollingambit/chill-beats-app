@@ -1,6 +1,6 @@
 # A music player app built with Create React App
-Hooks: useState, useEffect
-Styling: SCSS
+#### Hooks: useState, useEffect
+#### Styling: SCSS
 
 ### Clone repository
 
